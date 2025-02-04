@@ -1,7 +1,7 @@
 import os
-os.system("pip install cv2")
+os.system("pip install opencv-python")
 os.system("pip install numpy")
-os.system("pip install pyaudiogui")
+os.system("pip install pyautogui")
 os.system("pip install time")
 import cv2
 import numpy as np
